@@ -2,7 +2,6 @@ import React, { Component, PropTypes } from 'react';
 import Header from './Header.js';
 import AddTask from './AddTask.js';
 import ListTasks from './ListTasks.js';
-// import Calendar from './Calendar.js';
 
 class App extends Component {
     constructor(props) {
