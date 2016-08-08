@@ -1,0 +1,6 @@
+logs/*
+!.gitkeep
+node_modules/
+test
+.vscode
+npm-debug.log.1328525288

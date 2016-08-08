@@ -1,0 +1,31 @@
+h3 {
+    color: blue
+}
+
+ul {
+    padding-left: 10px;
+    width: 50%;
+}
+
+li {
+    height: 30px;
+    list-style-type: none;
+    line-height: 34px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.finished {
+    color: slategrey;
+    text-decoration: line-through;
+    /*background: url('images/tick.png') no-repeat 0 0;*/
+}
+
+/*li:after {*/
+    /*content: url('./images/tick.png');*/
+    /*content: ' why can\'t add an image?';*/
+/*}*/
+
+.image {
+    background: url('images/tick.png') no-repeat 0 0;
+}
